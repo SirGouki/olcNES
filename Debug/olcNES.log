@@ -1,0 +1,11 @@
+﻿  Bus.cpp
+  CPU.cpp
+  Cartridge.cpp
+  Mapper.cpp
+  Mapper_000.cpp
+  PPU.cpp
+  entry.cpp
+  Running Code Analysis for C/C++...
+  Generating Code...
+C:\projects\c++\olcNES\Mapper_000.cpp(58): warning C4715: 'Mapper_000::ppuMapWrite': not all control paths return a value
+  olcNES.vcxproj -> C:\projects\c++\olcNES\Debug\olcNES.exe
